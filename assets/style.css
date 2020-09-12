@@ -1,0 +1,17 @@
+.foot{
+    position: fixed;
+        left: 0;
+        bottom: 0;
+        height: 5%;
+        width: 100%;
+        background-color: black;
+        color: white;
+        text-align: center;
+}
+.container-bg{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    text-align: center;
+}
